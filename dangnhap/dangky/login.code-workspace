@@ -1,0 +1,35 @@
+{
+	"folders": [
+		{
+			"path": "../dangnhap/login"
+		},
+		{
+			"path": "../dangnhap/xuly"
+		},
+		{
+			"path": "../dangnhap/connect"
+		},
+		{
+			"path": "../dangnhap/session"
+		},
+		{
+			"path": "../dangnhap/style"
+		},
+		{
+			"path": "../quanlydangnhap/html"
+		},
+		{
+			"path": "../quanlydangnhap/csss"
+		},
+		{
+			"path": "cssss"
+		},
+		{
+			"path": "stylecss"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
